@@ -1,4 +1,4 @@
 # intro
 introduction
 hello world
-creating a new project
+creating a project 
